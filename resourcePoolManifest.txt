@@ -1,0 +1,9 @@
+Resource Pools/default.dsl 
+Resource Pools/Resources/local.dsl 
+Resource Pools/Pool1.dsl 
+Resource Pools/Resources/poolAgent3.dsl 
+Resource Pools/Resources/poolAgent4.dsl 
+Resource Pools/Pool2.dsl 
+Resource Pools/Resources/poolAgent5.dsl 
+Resource Pools/Resources/qa-agent.dsl 
+
